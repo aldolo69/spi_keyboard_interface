@@ -1,7 +1,7 @@
 # spi_keyboard_interface
 90 keys interface SPI Arduino 
 
-![Screenshot]('spi_arduino_interface.PNG')
+![Screenshot](spi_arduino_interface.PNG)
 
 If you need to scan many buttons with 3 Arduino pins you can use SPI. To read up to 90 keys you can issue these commands:
 
