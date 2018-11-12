@@ -66,3 +66,6 @@ boolean getKeyStatus(unsigned char *pBuffer, int iRow, int iCol)
 ```
 
 CS is the chip select pin. Use whatever you want. 
+The code is provided for the following sample:
+
+![Screenshot](20181112_201110.jpg)
