@@ -65,4 +65,4 @@ boolean getKeyStatus(unsigned char *pBuffer, int iRow, int iCol)
 }
 ```
 
-CS is the chip select pin. Use whatever you want. Variables c1,c2... map every key in a single bit.
+CS is the chip select pin. Use whatever you want. 
